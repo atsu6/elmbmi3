@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/atsu6/elmbmi3/issues"
   },
-  "homepage": "https://github.com/atsu6/elmbmi3#readme"
+  "homepage": "https://github.com/atsu6/elmbmi2#readme",
+  "devDependencies": {
+    "elm": "^0.19.1-3"
+  }
 }
